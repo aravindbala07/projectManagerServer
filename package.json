@@ -1,0 +1,37 @@
+{
+  "name": "project-manager",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "hbs": "^4.0.5",
+    "http-errors": "~1.6.2",
+    "mongoose": "^5.3.8",
+    "mongoose-sequence": "^5.0.1",
+    "mongoose-sequence-plugin": "^1.0.5",
+    "morgan": "~1.9.0"
+  },
+  "description": "Project-Manager Project",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravindbala07/project-manager.git"
+  },
+  "keywords": [
+    "CPMB003"
+  ],
+  "author": "AravindBala Venkatasubramanian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravindbala07/project-manager/issues"
+  },
+  "homepage": "https://github.com/aravindbala07/project-manager#readme"
+}
