@@ -1,5 +1,5 @@
 {
-  "name": "project-manager",
+  "name": "projectManagerServer",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -18,20 +18,20 @@
     "mongoose-sequence-plugin": "^1.0.5",
     "morgan": "~1.9.0"
   },
-  "description": "Project-Manager Project",
+  "description": "PprojectManagerServer Project",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aravindbala07/project-manager.git"
+    "url": "git+https://github.com/aravindbala07/projectManagerServer.git"
   },
   "keywords": [
-    "CPMB003"
+    "projectManagerServer"
   ],
   "author": "AravindBala Venkatasubramanian",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aravindbala07/project-manager/issues"
+    "url": "https://github.com/aravindbala07/projectManagerServer/issues"
   },
-  "homepage": "https://github.com/aravindbala07/project-manager#readme"
+  "homepage": "https://github.com/aravindbala07/projectManagerServer#readme"
 }
