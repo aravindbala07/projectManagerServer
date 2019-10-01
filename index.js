@@ -3,7 +3,7 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var cors = require('cors');
 var server = express();
-var port = 3000;
+var port = 7000;
 var host = 'localhost';  //For local run
 // var host = '0.0.0.0';   // For Docker run
 
